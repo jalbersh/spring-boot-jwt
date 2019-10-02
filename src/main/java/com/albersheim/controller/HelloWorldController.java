@@ -1,4 +1,4 @@
-package com.javainuse.controller;
+package com.albersheim.controller;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RequestMapping;
