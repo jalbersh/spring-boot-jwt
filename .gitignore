@@ -1,6 +1,8 @@
 .gradle
 /build/
 /target/
+/target/classes/
+/target/classes/application.properties
 !gradle/wrapper/gradle-wrapper.jar
 
 ### STS ###
